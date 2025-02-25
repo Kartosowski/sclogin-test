@@ -1,9 +1,5 @@
-# sclogin-test
-Velocity Plugin, This is the plugin for login. It has automatic login for premium players, Does not use backend servers. 
+Velocity Plugin – This is a login plugin for Velocity. It supports automatic login for premium players and does not require backend servers.
 
-LimboAPI is needed to use plugin!
-https://github.com/Elytrium/LimboAPI/releases/tag/dev-build
+LimboAPI is required to use this plugin! Download LimboAPI
 
-Link to download (I know is not open source at the moment):
-website is in polish language at the moment
-https://sclogin.stellarcode.pl/
+Download the plugin here (currently not open-source): SCLogin Website (Website is in Polish)
