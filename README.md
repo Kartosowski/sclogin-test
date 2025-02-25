@@ -6,4 +6,5 @@ LimboAPI is required to use this plugin! [Download LimboAPI](https://github.com/
 Download the plugin here (currently not open-source): SCLogin Website (Website is in Polish)
 
 ``sclogin.commands`` - allows use /sclogin
+
 ``(messages.yml is not formatted correctly! You can always change messages by yourself)``
